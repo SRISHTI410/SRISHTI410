@@ -1,9 +1,11 @@
 **Hello** 👋
-- I am Srishti Jha, a Computer Science undergraduate at KIIT.
+- I am Srishti Jha, a Computer Science undergraduate at KIIT. I code in Java,Python and C++. I have 2 year of experience in marketing.
  ----------------------------------------------------------
 👀**currently?**
-- I am in my first year.
--  I code in C. 
+- Exploring ML,deeplearning.
+  
+
+  
 
 ---------------------------------------
 
