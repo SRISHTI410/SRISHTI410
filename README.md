@@ -1,3 +1,4 @@
+<img width="545" alt="image" src="https://github.com/SRISHTI410/SRISHTI410/assets/92663711/65cdded4-9b1c-4f18-b2ea-40cfdb903585">
 👋 Hey there! Welcome to my GitHub profile!
 
 🎓 I'm a passionate college student with a knack for software development and a love for learning. 
