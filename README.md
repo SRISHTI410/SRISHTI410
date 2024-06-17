@@ -1,4 +1,4 @@
-<img width="745" alt="image" src="https://github.com/SRISHTI410/SRISHTI410/assets/92663711/65cdded4-9b1c-4f18-b2ea-40cfdb903585">
+<img width="1045" alt="image" src="https://github.com/SRISHTI410/SRISHTI410/assets/92663711/65cdded4-9b1c-4f18-b2ea-40cfdb903585">
 
 
 
