@@ -16,7 +16,7 @@
 You can drop me an email at srishtijha58@gmail.com .
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-https://auth.geeksforgeeks.org/user/srishtijzf2
+![](https://auth.geeksforgeeks.org/user/srishtijzf2)
   ![](https://komarev.com/ghpvc/?username=SRISHTI410)
 
   
